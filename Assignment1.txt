@@ -1,0 +1,6 @@
+https://www.anaconda.com/download
+https://code.visualstudio.com/download
+https://nb.anaconda.cloud/jupyterhub/user/59d89d8c-771c-4d04-8a35-56fb2e538036/lab
+https://github.com/sahmedkhan/sahmedkhan/blob/61fe66ce448723d9f92e23e5bfd130e3727d05b8/README.md
+https://en.wikipedia.org/wiki/Zen_of_Python
+https://www.linkedin.com/posts/activity-7092563004705116160-6iYX?utm_source=share&utm_medium=member_desktop
